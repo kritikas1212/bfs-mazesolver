@@ -1,0 +1,5 @@
+add_subdirectory(catch2)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/../include)
+add_executable(test_maze test_maze.cpp)
+target_link_libraries(test_maze Catch2::Catch2WithMain)
+add_test(NAME test_maze COMMAND test_maze)

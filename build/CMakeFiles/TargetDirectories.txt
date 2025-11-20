@@ -1,0 +1,2 @@
+/Users/kritikasingh/Desktop/bfs/build/CMakeFiles/edit_cache.dir
+/Users/kritikasingh/Desktop/bfs/build/CMakeFiles/rebuild_cache.dir
