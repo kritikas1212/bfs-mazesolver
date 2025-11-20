@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/kritikasingh/Desktop/bfs/build/cmake_install.cmake",
+		"/Users/kritikasingh/Desktop/bfs/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
